@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/moistman42069/HaloCE-Quest-VR/main/port/android/art/android-icon.png" alt="Halo Combat Evolved VR — OpenCE port" width="440" />
+  <img src=".github/opence-vr-logo.png" alt="Halo Combat Evolved VR — OpenCE port" width="440" />
 </p>
 
 <h1 align="center">OpenCE-VR</h1>
